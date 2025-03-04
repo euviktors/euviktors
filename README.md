@@ -8,7 +8,7 @@ Sou apaixonado por tecnologia e sempre busco compartilhar meu conhecimento. No m
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eusouoviktor/)  
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/joaoviktor)  
 
----
+----
 
 ### 🤖 Linguagens e Tecnologias  
 
@@ -29,16 +29,14 @@ Sou apaixonado por tecnologia e sempre busco compartilhar meu conhecimento. No m
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" width="40px"/>
 </p>  
 
----
 
 ### 📊 Estatísticas  
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=euviktors&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=euviktors&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=euviktors&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" height="200" style="padding-right: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=euviktors&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" height="200" />
 </p>  
 
----
 
 ### 🔥 Últimos Projetos  
 
